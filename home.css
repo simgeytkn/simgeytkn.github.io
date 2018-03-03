@@ -1,0 +1,92 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+.clear{
+    clear: both;
+}
+
+body{
+    background-color: rgb(41, 37, 37);
+}
+
+.wrap{
+    background-color: black;
+    border-radius:15px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.header{
+    margin-top:20px;
+    margin-bottom: 100px;
+    color: rgb(203, 203, 218);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 50px;
+    box-shadow:0px 20px 50px 0px rgb(73, 70, 70); 
+}
+
+.banner img{
+    height: 30px;
+    width: 30px;
+}
+
+.banner .education{
+    color:#fff;
+    font-size: 25px;
+    margin:15px;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #fff;
+}
+
+.banner p{
+    color: #fff;
+}
+
+.info{
+    padding-bottom:80px;
+    color:#fff;
+    margin-left:20px;
+}
+
+* {box-sizing:border-box}
+
+.container {
+    width: 100%;  
+}
+
+.skills {
+    text-align: right; 
+    padding-right: 20px; 
+    line-height: 30px; 
+    color: white; 
+}
+
+
+.html {width: 60%; background-color: rgb(96, 96, 151);} 
+.css {width: 40%; background-color: rgb(96, 96, 151);} 
+.js {width: 25%; background-color: rgb(96, 96, 151);} 
+.c{ width: 70%; background-color: rgb(96, 96, 151);}
+
+.info img{
+    width: 70px;
+    height: 70px;
+}
+
+ul li{
+    list-style-type: none;
+    float:left;
+    padding-right:50px;
+}
+
+.contect{
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    padding-bottom: 15px;
+}
