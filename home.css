@@ -36,10 +36,8 @@ body{
       font-size:5px;
     }
 
-    .wrap{
+    body{
         background-color: black;
-        border-radius:15px;
-        width: 100%;
     }
   }
 
