@@ -72,10 +72,6 @@ body{
 .js {width: 25%; background-color: rgb(96, 96, 151);} 
 .c{ width: 70%; background-color: rgb(96, 96, 151);}
 
-.info img{
-    width: 70px;
-    height: 70px;
-}
 
 ul li{
     list-style-type: none;
